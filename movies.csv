@@ -1,0 +1,71 @@
+movieId,title,genres
+1,Toy Story,Animation|Children|Comedy
+2,Jumanji,Adventure|Children|Fantasy
+3,Grumpier Old Men,Comedy|Romance
+4,Waiting to Exhale,Comedy|Drama|Romance
+5,Father of the Bride Part II,Comedy
+6,Heat,Action|Crime|Thriller
+7,Sabrina,Comedy|Romance
+8,Tom and Huck,Adventure|Children
+9,Sudden Death,Action
+10,GoldenEye,Action|Adventure|Thriller
+11,American President The,Comedy|Drama|Romance
+12,Dracula Dead and Loving It,Comedy|Horror
+13,Balto,Adventure|Animation|Children
+14,Nixon,Drama
+15,Cutthroat Island,Action|Adventure|Romance
+16,Casino,Crime|Drama
+17,Sense and Sensibility,Drama|Romance
+18,Four Rooms,Comedy|Crime|Mystery|Thriller
+19,Ace Ventura When Nature Calls,Comedy
+20,Money Train,Action|Comedy|Crime|Drama|Thriller
+21,Get Shorty,Comedy|Crime|Thriller
+22,Copycat,Crime|Drama|Horror|Mystery|Thriller
+23,Assassins,Action|Crime|Thriller
+24,Powder,Drama|Sci-Fi
+25,Leaving Las Vegas,Drama|Romance
+26,Othello,Drama
+27,Now and Then,Children|Drama
+28,Persuasion,Drama|Romance
+29,City of Lost Children The,Adventure|Drama|Fantasy|Mystery|Sci-Fi
+30,Shanghai Triad,Crime|Drama
+31,Dangerous Minds,Drama
+32,Twelve Monkeys,Mystery|Sci-Fi|Thriller
+33,Wings of Courage,Adventure|Romance
+34,Babe,Children|Drama
+35,Carrington,Drama|Romance
+36,Dead Man,Adventure|Comedy|Drama|Western
+37,Across the Sea of Time,Children|Documentary
+38,It Takes Two,Children|Comedy
+39,Clueless,Comedy|Romance
+40,Cry Baby,Comedy|Crime|Musical|Romance
+41,Richard III,Drama|War
+42,Dead Presidents,Action|Crime|Drama
+43,Restoration,Drama|Romance
+44,Mortal Kombat,Action|Adventure|Fantasy
+45,To Die For,Comedy|Crime|Drama|Mystery|Thriller
+46,How to Make an American Quilt,Drama|Romance
+47,Seven,Mystery|Thriller
+48,Pocahontas,Animation|Children|Drama|Musical|Romance
+49,When Night Is Falling,Drama|Romance
+50,The Usual Suspects,Crime|Mystery|Thriller
+51,Braveheart,Action|Drama|War
+52,Batman Forever,Action|Adventure|Comedy
+53,Apollo 13,Adventure|Drama|IMAX
+54,Pulp Fiction,Comedy|Crime|Drama|Thriller
+55,Forrest Gump,Comedy|Drama|Romance|War
+56,The Shawshank Redemption,Crime|Drama
+57,Schindlers List,Drama|War
+58,The Silence of the Lambs,Crime|Horror|Thriller
+59,Terminator 2,Action|Sci-Fi
+60,Jurassic Park,Action|Adventure|Sci-Fi|Thriller
+61,The Lion King,Animation|Children|Drama|Musical
+62,Aladdin,Animation|Children|Comedy|Musical
+63,Home Alone,Children|Comedy
+64,Ghost,Drama|Fantasy|Romance|Thriller
+65,Pretty Woman,Comedy|Romance
+66,Die Hard,Action|Crime|Thriller
+67,Rain Man,Drama
+68,The Godfather,Crime|Drama
+69,Star Wars IV A New Hope,Action|Adventure|Sci-Fi
+70,Indiana Jones Raiders,Action|Adventure
